@@ -1,7 +1,7 @@
-# 📊 Adidas Sales & Product Performance Dashboard — Power BI
+# 👟 Adidas Sales & Product Performance Dashboard — Power BI
 
 <p align="center">
-<img src="screenshot1.png" width="800"/>
+<img src="Dashboard Home.png" width="800"/>
 </p>
 
 *An interactive Power BI dashboard analyzing Adidas US sales performance for 2020–2021 — covering revenue, profitability, products, regions, and sales channels.*
@@ -26,7 +26,7 @@ This project analyzes **Adidas US sales data** for 2020–2021 using **Power BI*
 ### Executive Overview
 
 <p align="center">
-<img src="screenshot1.png" width="800"/>
+<img src="Executive Overview.png" width="800"/>
 </p>
 
 Key KPIs at a glance: **Revenue 900M** · **Operating Profit 332M** · **Units Sold 2M** · **Operating Margin 37%** · **Average Profit per Unit 45** · **Transactions 10K**
@@ -36,7 +36,7 @@ Key KPIs at a glance: **Revenue 900M** · **Operating Profit 332M** · **Units S
 ### Product Performance
 
 <p align="center">
-<img src="screenshot2.png" width="800"/>
+<img src="Product Performance.png" width="800"/>
 </p>
 
 Deep-dive into product-level performance: sales & profit by product and region, quarterly sales trend, operating profit by sales method, and each product's contribution to total sales.
@@ -68,14 +68,16 @@ Deep-dive into product-level performance: sales & profit by product and region, 
 
 | File | Description |
 |---|---|
-| `Adidas-Sales-Dashboard.pbix` | Full Power BI file — data model, DAX measures & interactive dashboard |
-| `screenshot1.png` → `screenshot2.png` | Dashboard screenshots for both report pages |
+| `addidas.pbix` | Full Power BI file — data model, DAX measures & interactive dashboard |
+| `Dashboard Home.png` | Cover / landing page of the dashboard |
+| `Executive Overview.png` | Executive Overview report page |
+| `Product Performance.png` | Product Performance report page |
 
 ---
 
 ## ▶️ How to Use
 
-1. Download `Adidas-Sales-Dashboard.pbix`
+1. Download `addidas.pbix`
 2. Open in **Power BI Desktop** (free download from Microsoft)
 3. Use the slicers on the left to filter by Date / Region / Sales Method / Product
 4. All charts and KPIs update dynamically
